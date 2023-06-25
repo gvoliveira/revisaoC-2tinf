@@ -4,6 +4,7 @@
 
 Conteúdo abordado nas aulas de revisão:
 - Lógica de programação
-- Repetições
+- Estruturas de repetições
 - Arrays
-- Funções
+
+  A descrição de cada atividade listada está no próprio arquivo com 1 opção de resolução da atividade.
